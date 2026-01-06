@@ -1,0 +1,12 @@
+
+Display Accuracy Simulation
+Samples: 2000 | Displayed: 1963
+Packet Loss: 1.85%
+
+Value Accuracy:
+  RMSE: 153.65 µε
+  MAE: 138.25 µε
+  Max(abs): 223.91 µε
+
+Latency:
+  Mean: 119.9 ms | p95: 168.4 | p99: 188.9
